@@ -1,3 +1,3 @@
 # Lab: RPG Battle
 
-Instructions are [here](https://docs.google.com/document/d/1RFONv0970ayc7tSyfxncIPJgmEh1ztLvuLFHDvvEcYA/edit?usp=sharing).
+Instructions are [here](https://comp127.innig.net/exercises/rpg_battle).
