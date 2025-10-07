@@ -100,7 +100,13 @@ public class Game {
     private GameCharacter selectPlayer(Scanner scanner, String prompt, List<GameCharacter> characters, int startIndex) {
         while (true) {
             System.out.print("Select " + prompt + ": ");
-            int playerNum = scanner.nextInt() - startIndex;
+            int playerNum;
+            try {
+                playerNum = Integer.parseInt(scanner.nextLine().trim()) - startIndex;
+            } catch(NumberFormatException e) {
+                System.out.println("Please enter a number.");
+                continue;
+            }
             if (playerNum >= 0 && playerNum < characters.size()) {
                 GameCharacter character = characters.get(playerNum);
                 if (character.isAlive()) {
