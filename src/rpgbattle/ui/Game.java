@@ -22,9 +22,9 @@ public class Game {
 
     private Game() {
         playerParty = new ArrayList<>();
-        playerParty.add(new GameCharacter("Scottie", 500, 0, 10, 15, 0, 0));
-        playerParty.add(new GameCharacter("President", 400, 40, 0, 0, 100, 10));
-        playerParty.add(new GameCharacter("Provost", 300, 0, 20, 40, 0, 0));
+        playerParty.add(new GameCharacter("Coo", 500, 0, 10, 15, 0, 0));
+        playerParty.add(new GameCharacter("Nessie", 400, 40, 0, 0, 100, 10));
+        playerParty.add(new GameCharacter("Scottie", 300, 0, 20, 40, 0, 0));
 
         level = 0;
         enemyParty = List.of();  // empty list triggers immediate level-up when game begins
