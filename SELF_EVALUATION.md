@@ -2,10 +2,6 @@
 
 ## Self-Evaluation Rubric
 
-# 🔴 Instructions
-
-You can make a copy of this document and use the checkboxes below as you complete the self-evaluation of your solution.
-
 # Correctness
 
 Use the list below to evaluate the correctness of your solution. Cross off the items that your solution passes.
@@ -32,7 +28,7 @@ Use the list below to evaluate the correctness of your solution. Cross off the i
 
 # Code Style
 
-Use the list below to evaluate the adherence of your code to the [COMP127 Style Guide](https://f25.comp127.innig.net/resources/style-guide/). Cross off the items that your code satisfies.
+Use the list below to evaluate the adherence of your code to the [COMP127 Style Guide](https://comp127.innig.net/resources/style-guide/). Cross off the items that your code satisfies.
 
 - [ ] all classes are in packages
 - [ ] package names start with a lowercase letter
@@ -55,3 +51,6 @@ Use the list below to evaluate the adherence of your code to the [COMP127 Style 
 # Reflection
 
 Briefly reflect, in writing, on your experience solving this exercise. What did you miss?  What did you wish you did better?  What challenges did you face, and how did you overcome them?
+
+
+
