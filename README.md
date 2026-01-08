@@ -1,3 +1,3 @@
 # Lab: RPG Battle
 
-Instructions are [here](https://comp127.innig.net/exercises/rpg_battle).
+Instructions are [here](https://comp127.macalester.digital/latest/exercises/rpg_battle).
